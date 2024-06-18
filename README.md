@@ -1,6 +1,14 @@
 # Tableau-projects
 
-# 1. Attrition Employee Dashboard
+The entire repository of Tableau Projects consists of 3 projects: 
+ 
+Employee Attrition Analysis - https://public.tableau.com/app/profile/rajashree.gavali/viz/AttritionEmployeeDashboard/AttritionEmployeeDashboard
+
+Amazon Sales Data analysis - https://public.tableau.com/app/profile/rajashree.gavali/viz/AmazonSalesAnalysis_17167243346920/Dashboard1
+
+Crop production analysis - https://public.tableau.com/app/profile/rajashree.gavali/viz/CropProductionAnalysis_17166407643000/CropProductionAnalysis
+ 
+# 1. Employee Attrition Dashboard
 ## Problem Statement:
  XYZ company which was established a few years back is facing around a 15% attrition rate for
  a couple of years. And it's majorly affecting the company in many aspects. In order to
@@ -8,16 +16,18 @@
  company has approached an HR analytics consultancy for analyzing the data they have. You
  are playing the HR analyst role in this project and building a dashboard which can help the
  organization in making data-driven decisions.
+ 
+ Project Difficulty level: Intermediate to Advanced
 ### Important KPI's
-EMPLOYEE COUNT – 4,410​
+Employee Count – 4,410​
 
-ATTRITION COUNT - 771​
+Attrition Count - 771​
 
-ATTRITION RATE – 16.12%​
+Attrition Rate – 16.12%​
 
-ACTIVE EMPLOYEES – 3,699​
+Active Employee – 3,699​
 
-AVG. AGE - 37
+Average Age - 37
 
 Created an interactive dashboard to visualize employee attrition data.
 
@@ -45,6 +55,8 @@ Employees with the performance rating of 3 have the highest attrition rate- henc
  Sales-trend -> month-wise, year-wise, yearly_month-wise
  Find key metrics and factors and show the meaningful relationships between
  attributes. 
+
+ Project Difficulty level: Intermediate to Advanced
 ### Data Source 
 The primary data is provided by Amazon, which is then pre-processed and collated by me.
 
@@ -80,6 +92,9 @@ The highest sales occurred in February and November, during which cosmetics were
  ranging from several years. Based on the Information the ultimate goal would be to
  predict crop production and find important insights highlighting key indicators and
  metrics that influence crop production.
+
+ Project Difficulty level: Intermediate to Advanced
+ 
 ### Data Source
 Primary Crop Production Data provided by the Indian Government from 1977 to 2015
 
